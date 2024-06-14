@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="DREMOV.exe" version="1.0.0.1" publicKeyToken="92f0bee63e3789c7" language="neutral" processorArchitecture="msil" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="DREMOV" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="DREMOV.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC Manifest Options
+          If you want to change the Windows User Account Control level replace the
+          requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         If you want to utilize File and Registry Virtualization for backward
+         compatibility then delete the requestedExecutionLevel node.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="DREMOV.exe" size="162760">
+      <assemblyIdentity name="DREMOV" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>ol+Y5q8idoH2rJq+DWaDMYuO02osSfCJ5BEUEsFHtjQ=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Newtonsoft.Json.dll" size="653824">
+      <assemblyIdentity name="Newtonsoft.Json" version="10.0.0.0" publicKeyToken="30AD4FE6B2A6AEED" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>lz/XDOSOWsQzoQG0KHFoDFHi/roq7sPUAN6kEVrzong=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="DREMOV.exe.config" size="184">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>FihlZtVNgcNyH37Pf0Jtll3jZOm+L55ijXNjtoS2/mo=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=MAIN-DESKTOP\main" issuerKeyHash="5afa44ee928d43eb1cbaf801cebfc56fc2deda35" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>Uz3E1jjG+RVGkLGPpdGAPwbPyf8AyGCuO+gFhEdHP/o=</DigestValue></Reference></SignedInfo><SignatureValue>FMFnrR6dYqcSljEMWZ630lSpS3VsdJgyQpyG3y9sqYgRSn98hRzbYGWdrL0ydg+QW0phFMD8/ac+o6Kb9KtvN/aPuvIDX3GOqR1xM7XqTRCo3J+gbFsd3OllBc04rmtukktCycC5RUxlv6zb8E1ubDWoUFnCihsmYJojWi4iy5M=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>zXUHlWLDftN8tH573koQywQUkpVK0Fp/lCNdkqhsAWqAXJbIlfRe/8naQgXjVtU+tbuXCg/hPVFDnTG+jDKOyOtYq2Jlz6CAa7q6quRkrQgfEBqCQXdV7Qm7z/5KM8WuDe/P6wwNRIFReGGSdGkFAWD1mSNn6fIcnZvL477Ky/E=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="fa3f47478405e83bae60c800ffc9cf063f80d1a58fb1904615f9c638d6c43d53" Description="" Url=""><as:assemblyIdentity name="DREMOV.exe" version="1.0.0.1" publicKeyToken="92f0bee63e3789c7" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=MAIN-DESKTOP\main</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>6F8k4VzUDk6zkm9N9FH26Uv5PfAwfwttbbv03QLguFw=</DigestValue></Reference></SignedInfo><SignatureValue>B8bepjnqrH1ppBZMptIejin4d9TKWrIagZMDj9psM/mycgooND/D9UrmLNc4FO5bdu/ytCyLidEH+niFeXqLJFBu9kB344pelG1MR5deoowm+C/acCV4cMeUWTH1JakUM0UKTT1BeswAAyHZdZ2dduKwrCwsARrD3MDSzugqHJQ=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>zXUHlWLDftN8tH573koQywQUkpVK0Fp/lCNdkqhsAWqAXJbIlfRe/8naQgXjVtU+tbuXCg/hPVFDnTG+jDKOyOtYq2Jlz6CAa7q6quRkrQgfEBqCQXdV7Qm7z/5KM8WuDe/P6wwNRIFReGGSdGkFAWD1mSNn6fIcnZvL477Ky/E=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB3TCCAUagAwIBAgIQM1KO5/bZHZdL1WoTxOlHRzANBgkqhkiG9w0BAQsFADAtMSswKQYDVQQDHiIATQBBAEkATgAtAEQARQBTAEsAVABPAFAAXABtAGEAaQBuMB4XDTI0MDYxNDEzMzYyOFoXDTI1MDYxNDE5MzYyOFowLTErMCkGA1UEAx4iAE0AQQBJAE4ALQBEAEUAUwBLAFQATwBQAFwAbQBhAGkAbjCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEAzXUHlWLDftN8tH573koQywQUkpVK0Fp/lCNdkqhsAWqAXJbIlfRe/8naQgXjVtU+tbuXCg/hPVFDnTG+jDKOyOtYq2Jlz6CAa7q6quRkrQgfEBqCQXdV7Qm7z/5KM8WuDe/P6wwNRIFReGGSdGkFAWD1mSNn6fIcnZvL477Ky/ECAwEAATANBgkqhkiG9w0BAQsFAAOBgQCsu7AObrGMDVSgMbiYhPwhp3YiyZv4Ry2buR3zuypgawlG3nJc+B1F2vHNdByWbNmNnBjEoNJWsvGNj/xcCUFi+VWtWGOOr+T+e06v2k7Yr39R61d0LKNn+N/cZ011iIjpWDoNPStkdVYrJVwjP8i197CAZQemVWb54VIZktUbpQ==</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

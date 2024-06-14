@@ -1,0 +1,47 @@
+C:\Users\Widi Rahman\Documents\Visual Studio 2015\DPACK BAckup\DREMOV\bin\Debug\DREMOV.exe.config
+C:\Users\Widi Rahman\Documents\Visual Studio 2015\DPACK BAckup\DREMOV\bin\Debug\DREMOV.exe
+C:\Users\Widi Rahman\Documents\Visual Studio 2015\DPACK BAckup\DREMOV\bin\Debug\DREMOV.pdb
+C:\Users\Widi Rahman\Documents\Visual Studio 2015\DPACK BAckup\DREMOV\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Widi Rahman\Documents\Visual Studio 2015\DPACK BAckup\DREMOV\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Widi Rahman\Documents\Visual Studio 2015\DPACK BAckup\DREMOV\obj\Debug\DREMOV.csprojResolveAssemblyReference.cache
+C:\Users\Widi Rahman\Documents\Visual Studio 2015\DPACK BAckup\DREMOV\obj\Debug\DREMOV.Form1.resources
+C:\Users\Widi Rahman\Documents\Visual Studio 2015\DPACK BAckup\DREMOV\obj\Debug\DREMOV.Form2.resources
+C:\Users\Widi Rahman\Documents\Visual Studio 2015\DPACK BAckup\DREMOV\obj\Debug\DREMOV.Form3.resources
+C:\Users\Widi Rahman\Documents\Visual Studio 2015\DPACK BAckup\DREMOV\obj\Debug\DREMOV.Properties.Resources.resources
+C:\Users\Widi Rahman\Documents\Visual Studio 2015\DPACK BAckup\DREMOV\obj\Debug\DREMOV.csproj.GenerateResource.Cache
+C:\Users\Widi Rahman\Documents\Visual Studio 2015\DPACK BAckup\DREMOV\obj\Debug\DREMOV.exe
+C:\Users\Widi Rahman\Documents\Visual Studio 2015\DPACK BAckup\DREMOV\obj\Debug\DREMOV.pdb
+E:\linux\Main\000Archive\MoveCodeToWSL\20-XX-old\#desktop\Aplikasi Dremov\DREMOV\bin\Debug\DREMOV.exe.config
+E:\linux\Main\000Archive\MoveCodeToWSL\20-XX-old\#desktop\Aplikasi Dremov\DREMOV\bin\Debug\DREMOV.exe
+E:\linux\Main\000Archive\MoveCodeToWSL\20-XX-old\#desktop\Aplikasi Dremov\DREMOV\bin\Debug\DREMOV.pdb
+E:\linux\Main\000Archive\MoveCodeToWSL\20-XX-old\#desktop\Aplikasi Dremov\DREMOV\bin\Debug\Newtonsoft.Json.dll
+E:\linux\Main\000Archive\MoveCodeToWSL\20-XX-old\#desktop\Aplikasi Dremov\DREMOV\bin\Debug\Newtonsoft.Json.xml
+E:\linux\Main\000Archive\MoveCodeToWSL\20-XX-old\#desktop\Aplikasi Dremov\DREMOV\obj\Debug\DREMOV.csproj.AssemblyReference.cache
+E:\linux\Main\000Archive\MoveCodeToWSL\20-XX-old\#desktop\Aplikasi Dremov\DREMOV\obj\Debug\DREMOV.Form1.resources
+E:\linux\Main\000Archive\MoveCodeToWSL\20-XX-old\#desktop\Aplikasi Dremov\DREMOV\obj\Debug\DREMOV.Form2.resources
+E:\linux\Main\000Archive\MoveCodeToWSL\20-XX-old\#desktop\Aplikasi Dremov\DREMOV\obj\Debug\DREMOV.Form3.resources
+E:\linux\Main\000Archive\MoveCodeToWSL\20-XX-old\#desktop\Aplikasi Dremov\DREMOV\obj\Debug\DREMOV.Properties.Resources.resources
+E:\linux\Main\000Archive\MoveCodeToWSL\20-XX-old\#desktop\Aplikasi Dremov\DREMOV\obj\Debug\DREMOV.csproj.GenerateResource.cache
+E:\linux\Main\000Archive\MoveCodeToWSL\20-XX-old\#desktop\Aplikasi Dremov\DREMOV\obj\Debug\DREMOV.csproj.CoreCompileInputs.cache
+E:\linux\Main\000Archive\MoveCodeToWSL\20-XX-old\#desktop\Aplikasi Dremov\DREMOV\obj\Debug\DREMOV.csproj.CopyComplete
+E:\linux\Main\000Archive\MoveCodeToWSL\20-XX-old\#desktop\Aplikasi Dremov\DREMOV\obj\Debug\DREMOV.exe
+E:\linux\Main\000Archive\MoveCodeToWSL\20-XX-old\#desktop\Aplikasi Dremov\DREMOV\obj\Debug\DREMOV.pdb
+D:\2024\project\coding-develop-old-projects\2000-and-earlier-plan\#desktop\Aplikasi Dremov\DREMOV\bin\Debug\DREMOV.exe.config
+D:\2024\project\coding-develop-old-projects\2000-and-earlier-plan\#desktop\Aplikasi Dremov\DREMOV\bin\Debug\DREMOV.exe
+D:\2024\project\coding-develop-old-projects\2000-and-earlier-plan\#desktop\Aplikasi Dremov\DREMOV\bin\Debug\DREMOV.pdb
+D:\2024\project\coding-develop-old-projects\2000-and-earlier-plan\#desktop\Aplikasi Dremov\DREMOV\bin\Debug\Newtonsoft.Json.dll
+D:\2024\project\coding-develop-old-projects\2000-and-earlier-plan\#desktop\Aplikasi Dremov\DREMOV\bin\Debug\Newtonsoft.Json.xml
+D:\2024\project\coding-develop-old-projects\2000-and-earlier-plan\#desktop\Aplikasi Dremov\DREMOV\obj\Debug\DREMOV.csproj.AssemblyReference.cache
+D:\2024\project\coding-develop-old-projects\2000-and-earlier-plan\#desktop\Aplikasi Dremov\DREMOV\obj\Debug\DREMOV.Form1.resources
+D:\2024\project\coding-develop-old-projects\2000-and-earlier-plan\#desktop\Aplikasi Dremov\DREMOV\obj\Debug\DREMOV.Form2.resources
+D:\2024\project\coding-develop-old-projects\2000-and-earlier-plan\#desktop\Aplikasi Dremov\DREMOV\obj\Debug\DREMOV.Form3.resources
+D:\2024\project\coding-develop-old-projects\2000-and-earlier-plan\#desktop\Aplikasi Dremov\DREMOV\obj\Debug\DREMOV.Properties.Resources.resources
+D:\2024\project\coding-develop-old-projects\2000-and-earlier-plan\#desktop\Aplikasi Dremov\DREMOV\obj\Debug\DREMOV.csproj.GenerateResource.cache
+D:\2024\project\coding-develop-old-projects\2000-and-earlier-plan\#desktop\Aplikasi Dremov\DREMOV\obj\Debug\DREMOV.csproj.CoreCompileInputs.cache
+D:\2024\project\coding-develop-old-projects\2000-and-earlier-plan\#desktop\Aplikasi Dremov\DREMOV\obj\Debug\DREMOV.csproj.Up2Date
+D:\2024\project\coding-develop-old-projects\2000-and-earlier-plan\#desktop\Aplikasi Dremov\DREMOV\obj\Debug\DREMOV.exe
+D:\2024\project\coding-develop-old-projects\2000-and-earlier-plan\#desktop\Aplikasi Dremov\DREMOV\obj\Debug\DREMOV.pdb
+D:\2024\project\coding-develop-old-projects\2000-and-earlier-plan\#desktop\Aplikasi Dremov\DREMOV\bin\Debug\DREMOV.exe.manifest
+D:\2024\project\coding-develop-old-projects\2000-and-earlier-plan\#desktop\Aplikasi Dremov\DREMOV\bin\Debug\DREMOV.application
+D:\2024\project\coding-develop-old-projects\2000-and-earlier-plan\#desktop\Aplikasi Dremov\DREMOV\obj\Debug\DREMOV.exe.manifest
+D:\2024\project\coding-develop-old-projects\2000-and-earlier-plan\#desktop\Aplikasi Dremov\DREMOV\obj\Debug\DREMOV.application
